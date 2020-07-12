@@ -1,0 +1,64 @@
+body{
+    background-color: c5c8ca;
+}
+
+.parent{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.child1{
+    width: 300px;
+    height: 500px;
+    background-color: #e6e3e5;
+    margin:15px 50px 50px 0;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 2px 2px 0 0 #008CBA;
+}
+img{
+ width: 100%;
+ height: 40%;
+ border-radius: 10px;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    margin: 20px;
+    font-weight: 500;
+    color: #4d4646;
+}
+span{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    margin: 10px 0 0 20px;
+    font-weight: lighter;
+    color: #4d4646;
+}
+button{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 0 0 0 75px;
+}
+#but1{
+background-color: #7cbe0a;
+padding:10px;
+margin:50px 0 0 150px;
+}
+#but2{
+    background-color: #db0c81;
+    padding:10px;
+    margin:0px;
+    }
+
